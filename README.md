@@ -5,7 +5,8 @@
 Eventhub Rust client
 ===
 
-*TODO: Add Travis integration*
+[![Build Status](https://travis-ci.com/fredrikstave/eventhub-rust-client.svg?branch=master)](https://travis-ci.com/fredrikstave/eventhub-rust-client)
+
 *TODO: Add Rust docs*
 
 ## Installation
