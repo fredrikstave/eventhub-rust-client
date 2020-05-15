@@ -2,7 +2,7 @@
 <img width="308" height="85" src="./docs/images/eventhub-logo.png" />
 </p>
 
-Eventhub Rust client [![Build Status](https://travis-ci.com/fredrikstave/eventhub-rust-client.svg?branch=master)](https://travis-ci.com/fredrikstave/eventhub-rust-client) [![docs.rs](https://docs.rs/eventhub-rust-client/badge.svg)](https://docs.rs/eventhub-rust-client)
+Eventhub Rust Client [![Build Status](https://travis-ci.com/fredrikstave/eventhub-rust-client.svg?branch=master)](https://travis-ci.com/fredrikstave/eventhub-rust-client) [![docs.rs](https://docs.rs/eventhub-rust-client/badge.svg)](https://docs.rs/eventhub-rust-client)
 ===
 
 This is a Rust client library for [Eventhub](https://github.com/olesku/eventhub). It enables you to easily subscribe and publish to an eventhub server instance from your Rust project.
