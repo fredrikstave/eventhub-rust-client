@@ -12,7 +12,7 @@ This is a Rust client library for [Eventhub](https://github.com/olesku/eventhub)
 To add a library release version from [crates.io](https://crates.io/crates/eventhub-rust-client) to a Cargo project, add this to the 'dependencies' section of your `Cargo.toml`:
 
 ```toml
-eventhub-rust-client = "0.24.0"
+eventhub-rust-client = "0.0.1"
 ```
 
 To add the library's Git repository to a Cargo project, add this to your `Cargo.toml`:
