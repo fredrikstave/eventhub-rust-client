@@ -1,0 +1,23 @@
+[package]
+name = "eventhub"
+version = "0.0.1"
+authors = ["Fredrik Stave <fredrikstave@me.com>"]
+description = """
+A Rust client library for Eventhub. It enables you to easily subscribe and publish to an Eventhub server instance from your Rust project.
+"""
+documentation = "https://api.rocket.rs/v0.4/rocket/"
+homepage = "https://rocket.rs"
+repository = "https://github.com/fredrikstave/eventhub-rust-client"
+readme = "./README.md"
+keywords = ["eventhub", "redis", "pub-sub"]
+license = "MIT"
+build = "build.rs"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[build-dependencies]
+
+[dev-dependencies]

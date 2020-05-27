@@ -1,0 +1,8 @@
+[package]
+name = "publish"
+version = "0.0.1"
+workspace = "../../"
+publish = false
+
+[dependencies]
+eventhub = { path = "../../lib" }

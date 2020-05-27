@@ -1,0 +1,8 @@
+[package]
+name = "subscribe"
+version = "0.0.1"
+workspace = "../../"
+publish = false
+
+[dependencies]
+eventhub = { path = "../../lib" }

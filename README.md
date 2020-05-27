@@ -9,9 +9,14 @@ Eventhub Rust client
 
 *TODO: Add Rust docs*
 
+eventhub-rust-client is a Rust client library for Eventhub. It enables you to easily subscribe and publish to a eventhub server from your Rust project.
+
 ## Installation
 
-*WIP*
+To add a library release version from [crates.io](https://crates.io/crates/eventhub-rust-client) to a Cargo project, add this to the 'dependencies' section of your Cargo.toml:
+
+```
+```
 
 ## Examples
 
