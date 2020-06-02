@@ -1,3 +1,5 @@
+use eventhub;
+
 fn main() {
-    println!("eventhub-rust-client: subscribe example");
+    let ev_client = eventhub::Eventhub::new("ws://eventhub.e24.no", "supersecret");
 }
